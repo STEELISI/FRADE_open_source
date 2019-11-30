@@ -1,7 +1,5 @@
 # FRADE_open_source
-============================================================
 Defending Web Servers against Flash Crowd Attacks with FRADE
-============================================================
 
 Authors:
 PL: Dr. Jelena Mirkovic and Dr. Genevieve Bartlett
