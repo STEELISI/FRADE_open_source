@@ -1,0 +1,22 @@
+open(IF,"/sbin/ifconfig |") || die "Failed: $!\n";
+# Find a NIC starting with 10.                                                  
+$name = "";
+$nic = "";
+$found = 0;
+while ( <IF> )
+{
+    if ($_ =~ /^eth/ || $_ =~ /^enp/)
+    {
+        my @items = split /\s+/, $_;
+        if (!$found)
+        {
+            $name = $items[0];
+        }
+    }
+    if ($_ =~ /inet addr:10\./ && !$found)
+    {
+        $nic = $name;
+        $found = 1;
+    }
+}
+print $nic;

@@ -1,0 +1,4 @@
+# one argument - server name
+. ../../config
+i=0
+ssh attacker$i.$experiment_name.frade "cd $path_to_execute_from/experiments/setup/ip_addrs; sudo perl assign 10.1.x.x"

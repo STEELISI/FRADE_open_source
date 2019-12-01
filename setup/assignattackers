@@ -1,0 +1,14 @@
+# one argument - server name
+. ../../config
+i=$last_attacker_node
+a=3
+b=12
+#while [ $i -le $last_attacker_node ] ; do
+while [ $i -ge 1 ] ; do
+   echo "ATTACKER $i"
+  # ssh attacker$i.$experiment_name.frade "cd $path_to_execute_from/experiments/setup/ip_addrs; sudo perl assign 10.2.$a-$b.x ; sudo perl assign 10.3.$a-$b.x ; sudo perl assign 10.4.$a-$b.x ; sudo perl assign 10.5.$a-$b.x "
+   i=$(($i-1))
+  # a=$(($a+10))	
+  # b=$(($b+10))
+    ssh attacker$i.$experiment_name.frade "cd $path_to_execute_from/experiments/setup/ip_addrs; sudo perl assign /users/rajat19/frade/experiments/run/address_files_for_httperf_10k/addresses$i.txt ; "
+done	
