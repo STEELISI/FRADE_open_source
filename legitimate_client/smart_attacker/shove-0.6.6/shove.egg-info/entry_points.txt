@@ -1,0 +1,15 @@
+    [shove.stores]
+    dbm=shove.store:DBMStore
+    file=shove.store:FileStore
+    lite=shove.store:SQLiteStore
+    memory=shove.store:MemoryStore
+    simple=shove.store:SimpleStore
+    [shove.caches]
+    file=shove.cache:FileCache
+    filelru=shove.cache:FileLRUCache
+    lite=shove.cache:SQLiteCache
+    memlru=shove.cache:MemoryLRUCache
+    memory=shove.cache:MemoryCache
+    simple=shove.cache:SimpleCache
+    simplelru=shove.cache:SimpleLRUCache
+    

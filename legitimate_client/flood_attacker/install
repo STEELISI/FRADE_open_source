@@ -1,0 +1,5 @@
+sudo apt-get update
+sudo apt-get install -y python-setuptools python-dev build-essential 
+sudo apt-get install -y python3-setuptools python3-dateutil
+sudo apt-get install -y python3-dev python3-shove
+cd netifaces-0.10.6; sudo python3.4 setup.py install; cd ..
