@@ -1,0 +1,25 @@
+[Dynamics]
+No File Prob: 0.09
+1 4 12 17 17
+
+[Transition Probabilities]
+Threshold: 0.01
+/forum/index.php -> /forum/create_topic.php : 0.0666667
+/forum/topic.php -> /forum/create_topic.php : 0.235294
+/forum/category.php -> /forum/topic.php : 1
+/forum/signin.php -> /forum/index.php : 0.5
+/forum/create_topic.php -> /forum/create_topic.php : 0.5
+/forum/create_topic.php -> /forum/topic.php : 0.5
+/forum/index.php -> /forum/index.php : 0.266667
+/forum/ -> /forum/ : 0.5
+/forum/topic.php -> /forum/index.php : 0.352941
+/forum/topic.php -> /forum/reply.php : 0.411765
+/forum/ -> /forum/signin.php : 0.5
+/forum/signin.php -> /forum/signin.php : 0.5
+/forum/index.php -> /forum/category.php : 0.666667
+/forum/reply.php -> /forum/topic.php : 1
+
+[User Data]
+
+[Blacklist]
+Connections Processed: 0

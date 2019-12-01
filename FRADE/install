@@ -1,0 +1,6 @@
+sudo apt-get update
+sudo apt-get install -y libboost-regex-dev g++ gcc make apache2-dev
+make
+cd apache; make; sudo cp dsocat /usr/local/bin
+
+

@@ -1,0 +1,7 @@
+/static/dummy.html
+/static/reddit_jokes.html
+/static/reddit_askreddit.html
+/static/reddit_gilded.html
+/static/reddit_promoted.html
+/static/reddit_hot.html
+/static/reddit_top.html

@@ -1,0 +1,2312 @@
+128.9.184.125 1485551428801 GET /mediawiki/ HTTP/1.1 301 524118
+128.9.184.125:2109213056
+1485551428801
+/mediawiki/
+301
+524118
+Entering FRADE.cpp
+See if record is already there..
+Record was not there..
+embd obj req init..
+initialized..
+pair inserted..
+128.9.184.125 1485551429374 GET /mediawiki/index.php/Main_Page HTTP/1.1 304 257727
+128.9.184.125:2109213056
+1485551429374
+/mediawiki/index.php/Main_Page
+304
+257727
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551429835 GET /mediawiki/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector HTTP/1.1 200 124811
+128.9.184.125:2109213056
+1485551429835
+/mediawiki/load.php?debug=false&lang=en&modules=site&only=styles&skin=vector
+200
+124811
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551429800 GET /mediawiki/load.php?debug=false&lang=en&modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%2Cwatchlist-notice%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&only=styles&skin=vector HTTP/1.1 200 481550
+128.9.184.125:2109213056
+1485551429800
+/mediawiki/load.php?debug=false&lang=en&modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%2Cwatchlist-notice%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&only=styles&skin=vector
+200
+481550
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551429990 GET /mediawiki/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector HTTP/1.1 304 511399
+128.9.184.125:2109213056
+1485551429990
+/mediawiki/load.php?debug=false&lang=en&modules=startup&only=scripts&skin=vector
+304
+511399
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551430820 GET /favicon.ico HTTP/1.1 404 152
+128.9.184.125:2109213056
+1485551430820
+/favicon.ico
+404
+152
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551433076 GET /mediawiki/index.php/Main_Page HTTP/1.1 304 222267
+128.9.184.125:2109213056
+1485551433076
+/mediawiki/index.php/Main_Page
+304
+222267
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551436125 GET /mediawiki/index.php/Special:Random HTTP/1.1 302 224192
+128.9.184.125:2109213056
+1485551436125
+/mediawiki/index.php/Special:Random
+302
+224192
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551436377 GET /mediawiki/index.php/Tommy_Franks HTTP/1.1 200 3145869
+128.9.184.125:2109213056
+1485551436377
+/mediawiki/index.php/Tommy_Franks
+200
+3145869
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551439800 GET /mediawiki/load.php?debug=false&lang=en&modules=jquery.accessKeyLabel%2Cclient%2CtabIndex%2Cthrottle-debounce%7Cmediawiki.RegExp%2Cnotify%2Cutil%7Cmediawiki.page.startup%7Cskins.vector.js&skin=vector&version=528430b1d1ed HTTP/1.1 304 70805
+128.9.184.125:2109213056
+1485551439800
+/mediawiki/load.php?debug=false&lang=en&modules=jquery.accessKeyLabel%2Cclient%2CtabIndex%2Cthrottle-debounce%7Cmediawiki.RegExp%2Cnotify%2Cutil%7Cmediawiki.page.startup%7Cskins.vector.js&skin=vector&version=528430b1d1ed
+304
+70805
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551439678 GET /mediawiki/load.php?debug=false&lang=en&modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%2Cwatchlist-notice%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&only=styles&skin=vector HTTP/1.1 200 283384
+128.9.184.125:2109213056
+1485551439678
+/mediawiki/load.php?debug=false&lang=en&modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cextra-toolbar-buttons%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%2Cwatchlist-notice%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&only=styles&skin=vector
+200
+283384
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551460328 GET /mediawiki/index.php/Main_Page HTTP/1.1 304 242897
+128.9.184.125:2109213056
+1485551460328
+/mediawiki/index.php/Main_Page
+304
+242897
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551462788 GET /mediawiki/index.php/Justin_Bieber HTTP/1.1 304 218666
+128.9.184.125:2109213056
+1485551462788
+/mediawiki/index.php/Justin_Bieber
+304
+218666
+Entering FRADE.cpp
+See if record is already there..
+128.9.184.125 1485551466905 GET /mediawiki/index.php4/topic_d HTTP/1.1 403 179
+128.9.184.125:2109213056
+1485551466905
+/mediawiki/index.php4/topic_d
+403
+179
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 155.98.39.110 1485551499870 GET /mediawiki/index.php4/welcome_d HTTP/1.1 403 306
+155.98.39.110:1848074907
+1485551499870
+/mediawiki/index.php4/welcome_d
+403
+306
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 128.9.184.125 1485551505480 GET /mediawiki/index.php4/welcome_d HTTP/1.1 403 290
+128.9.184.125:2109213056
+1485551505480
+/mediawiki/index.php4/welcome_d
+403
+290
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.1.1.13 1485551521094 GET /mediawiki/index.php4/welcome_d HTTP/1.1 403 285
+10.1.1.13:218169610
+1485551521094
+/mediawiki/index.php4/welcome_d
+403
+285
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561742 None /mediawiki/index.php4/feedback_d 403 281
+10.2.23.23:387383818
+1485551561742
+/mediawiki/index.php4/feedback_d
+403
+281
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561761 None /mediawiki 301 134
+10.2.23.23:387383818
+1485551561761
+/mediawiki
+301
+134
+Entering FRADE.cpp
+See if record is already there..
+Record was not there..
+embd obj req init..
+initialized..
+pair inserted..
+10.2.23.23 1485551561782 None /mediawiki/index.php4/cow_d 403 132
+10.2.23.23:387383818
+1485551561782
+/mediawiki/index.php4/cow_d
+403
+132
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561782 None /mediawiki/index.php4/bull_d 403 78
+10.2.23.23:387383818
+1485551561782
+/mediawiki/index.php4/bull_d
+403
+78
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561800 None /mediawiki/index.php4/cash_d 403 108
+10.2.23.23:387383818
+1485551561800
+/mediawiki/index.php4/cash_d
+403
+108
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561801 None /mediawiki/index.php/ 301 54483
+10.2.23.23:387383818
+1485551561801
+/mediawiki/index.php/
+301
+54483
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561770 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1 404 133900
+10.2.23.23:387383818
+1485551561770
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1
+404
+133900
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561761 None /mediawiki/index.php/File:Wiktionary-logo-v2.svg 404 158864
+10.2.23.23:387383818
+1485551561761
+/mediawiki/index.php/File:Wiktionary-logo-v2.svg
+404
+158864
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561800 None /mediawiki/index.php/Wikipedia:Privacy_policy 200 141640
+10.2.23.23:387383818
+1485551561800
+/mediawiki/index.php/Wikipedia:Privacy_policy
+200
+141640
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561772 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&limit=50&hidelinks=1 200 170957
+10.2.23.23:387383818
+1485551561772
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&limit=50&hidelinks=1
+200
+170957
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561943 None /mediawiki/index.php4/film_d 403 121
+10.2.23.23:387383818
+1485551561943
+/mediawiki/index.php4/film_d
+403
+121
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561943 None /mediawiki 301 56
+10.2.23.23:387383818
+1485551561943
+/mediawiki
+301
+56
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561798 None /mediawiki/index.php/File:Wikiquote-logo.svg 404 146695
+10.2.23.23:387383818
+1485551561798
+/mediawiki/index.php/File:Wikiquote-logo.svg
+404
+146695
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561944 None /mediawiki/index.php4/feedback_d 403 100
+10.2.23.23:387383818
+1485551561944
+/mediawiki/index.php4/feedback_d
+403
+100
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561770 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20 200 174135
+10.2.23.23:387383818
+1485551561770
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20
+200
+174135
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561945 None /mediawiki 301 72
+10.2.23.23:387383818
+1485551561945
+/mediawiki
+301
+72
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561945 None /mediawiki 301 43
+10.2.23.23:387383818
+1485551561945
+/mediawiki
+301
+43
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561855 None /mediawiki/index.php/Wikipedia:Contact_us 200 126856
+10.2.23.23:387383818
+1485551561855
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+126856
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561942 None /mediawiki/index.php/ 301 51253
+10.2.23.23:387383818
+1485551561942
+/mediawiki/index.php/
+301
+51253
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561993 None /mediawiki/index.php4/feedback_d 403 100
+10.2.23.23:387383818
+1485551561993
+/mediawiki/index.php4/feedback_d
+403
+100
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561944 None /mediawiki/index.php/ 301 49998
+10.2.23.23:387383818
+1485551561944
+/mediawiki/index.php/
+301
+49998
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561982 None /mediawiki/index.php/ 301 48550
+10.2.23.23:387383818
+1485551561982
+/mediawiki/index.php/
+301
+48550
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561904 None /mediawiki/index.php/Climate_change 200 137849
+10.2.23.23:387383818
+1485551561904
+/mediawiki/index.php/Climate_change
+200
+137849
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561943 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 122043
+10.2.23.23:387383818
+1485551561943
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+122043
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561761 None /mediawiki/index.php/Category:Wikipedia_how-to 200 308477
+10.2.23.23:387383818
+1485551561761
+/mediawiki/index.php/Category:Wikipedia_how-to
+200
+308477
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561945 None /mediawiki/index.php/Raoul_Berger 200 132148
+10.2.23.23:387383818
+1485551561945
+/mediawiki/index.php/Raoul_Berger
+200
+132148
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562077 None /mediawiki/index.php4/feedback_d 403 104
+10.2.23.23:387383818
+1485551562077
+/mediawiki/index.php4/feedback_d
+403
+104
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551561995 None /mediawiki/index.php/Help:Diff 200 127661
+10.2.23.23:387383818
+1485551561995
+/mediawiki/index.php/Help:Diff
+200
+127661
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561993 None /mediawiki/index.php/Category:Wikipedia_how-to 200 144185
+10.2.23.23:387383818
+1485551561993
+/mediawiki/index.php/Category:Wikipedia_how-to
+200
+144185
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562137 None /mediawiki/index.php4/bull_d 403 106
+10.2.23.23:387383818
+1485551562137
+/mediawiki/index.php4/bull_d
+403
+106
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562137 None /mediawiki/index.php4/cow_d 403 59
+10.2.23.23:387383818
+1485551562137
+/mediawiki/index.php4/cow_d
+403
+59
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562031 None /mediawiki/index.php/File:Wiktionary-logo-v2.svg 404 127708
+10.2.23.23:387383818
+1485551562031
+/mediawiki/index.php/File:Wiktionary-logo-v2.svg
+404
+127708
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562122 None /mediawiki/index.php/ 301 48901
+10.2.23.23:387383818
+1485551562122
+/mediawiki/index.php/
+301
+48901
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562066 None /mediawiki/index.php/File:Wiktionary-logo-v2.svg 404 125399
+10.2.23.23:387383818
+1485551562066
+/mediawiki/index.php/File:Wiktionary-logo-v2.svg
+404
+125399
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562069 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1 200 133297
+10.2.23.23:387383818
+1485551562069
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1
+200
+133297
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562159 None /mediawiki/index.php/ 301 49003
+10.2.23.23:387383818
+1485551562159
+/mediawiki/index.php/
+301
+49003
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562077 None /mediawiki/index.php/Nanotechnology 200 134533
+10.2.23.23:387383818
+1485551562077
+/mediawiki/index.php/Nanotechnology
+200
+134533
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562171 None /mediawiki/index.php/ 301 48743
+10.2.23.23:387383818
+1485551562171
+/mediawiki/index.php/
+301
+48743
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562042 None /mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide 200 190596
+10.2.23.23:387383818
+1485551562042
+/mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide
+200
+190596
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562233 None /mediawiki 301 117
+10.2.23.23:387383818
+1485551562233
+/mediawiki
+301
+117
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562212 None /mediawiki/index.php/ 301 49072
+10.2.23.23:387383818
+1485551562212
+/mediawiki/index.php/
+301
+49072
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551561920 None /mediawiki/index.php/File:Wiktionary-logo-v2.svg 404 370254
+10.2.23.23:387383818
+1485551561920
+/mediawiki/index.php/File:Wiktionary-logo-v2.svg
+404
+370254
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562191 None /mediawiki/index.php/Main_Page 200 108837
+10.2.23.23:387383818
+1485551562191
+/mediawiki/index.php/Main_Page
+200
+108837
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562203 None /mediawiki/index.php/File:Wiktionary-logo-v2.svg 404 105041
+10.2.23.23:387383818
+1485551562203
+/mediawiki/index.php/File:Wiktionary-logo-v2.svg
+404
+105041
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562332 None /mediawiki/index.php4/kite_d 403 265
+10.2.23.23:387383818
+1485551562332
+/mediawiki/index.php4/kite_d
+403
+265
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562333 None /mediawiki/index.php4/elephant_d 403 67
+10.2.23.23:387383818
+1485551562333
+/mediawiki/index.php4/elephant_d
+403
+67
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562290 None /mediawiki/index.php/ 301 48635
+10.2.23.23:387383818
+1485551562290
+/mediawiki/index.php/
+301
+48635
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562220 None /mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace= 200 137054
+10.2.23.23:387383818
+1485551562220
+/mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace=
+200
+137054
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562233 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 132623
+10.2.23.23:387383818
+1485551562233
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+132623
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562261 None /mediawiki/index.php/Template:Editnotices/Page/Main_Page 200 119943
+10.2.23.23:387383818
+1485551562261
+/mediawiki/index.php/Template:Editnotices/Page/Main_Page
+200
+119943
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562381 None /mediawiki/index.php4/night_d 403 99
+10.2.23.23:387383818
+1485551562381
+/mediawiki/index.php4/night_d
+403
+99
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562381 None /mediawiki/index.php4/film_d 403 58
+10.2.23.23:387383818
+1485551562381
+/mediawiki/index.php4/film_d
+403
+58
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562300 None /mediawiki/index.php/Maa 200 89324
+10.2.23.23:387383818
+1485551562300
+/mediawiki/index.php/Maa
+200
+89324
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562308 None /mediawiki/index.php/Maa 200 102496
+10.2.23.23:387383818
+1485551562308
+/mediawiki/index.php/Maa
+200
+102496
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562138 None /mediawiki/index.php/Human_cloning 200 311281
+10.2.23.23:387383818
+1485551562138
+/mediawiki/index.php/Human_cloning
+200
+311281
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562333 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20 200 141907
+10.2.23.23:387383818
+1485551562333
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20
+200
+141907
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562475 None /mediawiki/index.php4/towel_d 403 95
+10.2.23.23:387383818
+1485551562475
+/mediawiki/index.php4/towel_d
+403
+95
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562475 None /mediawiki/index.php4/cow_d 403 76
+10.2.23.23:387383818
+1485551562475
+/mediawiki/index.php4/cow_d
+403
+76
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562389 None /mediawiki/index.php/File:Man_brushing_his_teeth_using_chewing_stick.jpeg 404 90076
+10.2.23.23:387383818
+1485551562389
+/mediawiki/index.php/File:Man_brushing_his_teeth_using_chewing_stick.jpeg
+404
+90076
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562480 None /mediawiki/index.php4/film_d 403 67
+10.2.23.23:387383818
+1485551562480
+/mediawiki/index.php4/film_d
+403
+67
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562366 None /mediawiki/index.php/Human_cloning 200 145110
+10.2.23.23:387383818
+1485551562366
+/mediawiki/index.php/Human_cloning
+200
+145110
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562381 None /mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace= 200 135933
+10.2.23.23:387383818
+1485551562381
+/mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace=
+200
+135933
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562357 None /mediawiki/index.php?title=Wikipedia:Look_what%27s_trending!&action=info 200 173040
+10.2.23.23:387383818
+1485551562357
+/mediawiki/index.php?title=Wikipedia:Look_what%27s_trending!&action=info
+200
+173040
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562530 None /mediawiki/index.php4/welcome_d 403 114
+10.2.23.23:387383818
+1485551562530
+/mediawiki/index.php4/welcome_d
+403
+114
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562410 None /mediawiki/index.php/Wikipedia:Privacy_policy 200 139240
+10.2.23.23:387383818
+1485551562410
+/mediawiki/index.php/Wikipedia:Privacy_policy
+200
+139240
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562550 None /mediawiki/index.php4/feedback_d 403 140
+10.2.23.23:387383818
+1485551562550
+/mediawiki/index.php4/feedback_d
+403
+140
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562480 None /mediawiki/index.php/Template:Editnotices/Page/Main_Page 200 98530
+10.2.23.23:387383818
+1485551562480
+/mediawiki/index.php/Template:Editnotices/Page/Main_Page
+200
+98530
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562475 None /mediawiki/index.php/Help:Diff 200 103903
+10.2.23.23:387383818
+1485551562475
+/mediawiki/index.php/Help:Diff
+200
+103903
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562579 None /mediawiki/index.php4/film_d 403 87
+10.2.23.23:387383818
+1485551562579
+/mediawiki/index.php4/film_d
+403
+87
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562579 None /mediawiki 301 47
+10.2.23.23:387383818
+1485551562579
+/mediawiki
+301
+47
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562578 None /mediawiki/index.php/ 301 46723
+10.2.23.23:387383818
+1485551562578
+/mediawiki/index.php/
+301
+46723
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562625 None /mediawiki/index.php4/towel_d 403 92
+10.2.23.23:387383818
+1485551562625
+/mediawiki/index.php4/towel_d
+403
+92
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562339 None /mediawiki/index.php/Brad_Pitt 200 308102
+10.2.23.23:387383818
+1485551562339
+/mediawiki/index.php/Brad_Pitt
+200
+308102
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562550 None /mediawiki/index.php/Main_Page 200 124472
+10.2.23.23:387383818
+1485551562550
+/mediawiki/index.php/Main_Page
+200
+124472
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562531 None /mediawiki/index.php/Brad_Pitt 200 155819
+10.2.23.23:387383818
+1485551562531
+/mediawiki/index.php/Brad_Pitt
+200
+155819
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562686 None /mediawiki/index.php4/film_d 403 80
+10.2.23.23:387383818
+1485551562686
+/mediawiki/index.php4/film_d
+403
+80
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562208 None /mediawiki/index.php/Myhome 404 480635
+10.2.23.23:387383818
+1485551562208
+/mediawiki/index.php/Myhome
+404
+480635
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562688 None /mediawiki/index.php4/bike_d 403 133
+10.2.23.23:387383818
+1485551562688
+/mediawiki/index.php4/bike_d
+403
+133
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562689 None /mediawiki/mediawiki 501 92
+10.2.23.23:387383818
+1485551562689
+/mediawiki/mediawiki
+501
+92
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562689 None /mediawiki/index.php4/bike_d 403 57
+10.2.23.23:387383818
+1485551562689
+/mediawiki/index.php4/bike_d
+403
+57
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562511 None /mediawiki/index.php/ 301 205953
+10.2.23.23:387383818
+1485551562511
+/mediawiki/index.php/
+301
+205953
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562579 None /mediawiki/index.php/Category:Wikipedia_how-to 200 144128
+10.2.23.23:387383818
+1485551562579
+/mediawiki/index.php/Category:Wikipedia_how-to
+200
+144128
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562625 None /mediawiki/index.php/File:Man_brushing_his_teeth_using_chewing_stick.jpeg 404 122895
+10.2.23.23:387383818
+1485551562625
+/mediawiki/index.php/File:Man_brushing_his_teeth_using_chewing_stick.jpeg
+404
+122895
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562723 None /mediawiki/index.php/ 301 48961
+10.2.23.23:387383818
+1485551562723
+/mediawiki/index.php/
+301
+48961
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562647 None /mediawiki/index.php/Jennifer_Aniston 200 126068
+10.2.23.23:387383818
+1485551562647
+/mediawiki/index.php/Jennifer_Aniston
+200
+126068
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562689 None /mediawiki/index.php/File:Wiktionary-logo-v2.svg 404 126040
+10.2.23.23:387383818
+1485551562689
+/mediawiki/index.php/File:Wiktionary-logo-v2.svg
+404
+126040
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562815 None /mediawiki/index.php4/feedback_d 403 109
+10.2.23.23:387383818
+1485551562815
+/mediawiki/index.php4/feedback_d
+403
+109
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562773 None /mediawiki/index.php/ 301 47253
+10.2.23.23:387383818
+1485551562773
+/mediawiki/index.php/
+301
+47253
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562687 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20 200 134266
+10.2.23.23:387383818
+1485551562687
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20
+200
+134266
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562517 None /mediawiki/index.php/Portal:Contents 404 343283
+10.2.23.23:387383818
+1485551562517
+/mediawiki/index.php/Portal:Contents
+404
+343283
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562449 None /mediawiki/index.php/Portal:Contents 404 443664
+10.2.23.23:387383818
+1485551562449
+/mediawiki/index.php/Portal:Contents
+404
+443664
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562821 None /mediawiki/index.php/Bridget_Cherry 200 93635
+10.2.23.23:387383818
+1485551562821
+/mediawiki/index.php/Bridget_Cherry
+200
+93635
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562914 None /mediawiki/index.php4/feedback_d 403 97
+10.2.23.23:387383818
+1485551562914
+/mediawiki/index.php4/feedback_d
+403
+97
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562772 None /mediawiki/index.php/Climate_change 200 143399
+10.2.23.23:387383818
+1485551562772
+/mediawiki/index.php/Climate_change
+200
+143399
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562916 None /mediawiki/index.php4/bike_d 403 60
+10.2.23.23:387383818
+1485551562916
+/mediawiki/index.php4/bike_d
+403
+60
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551562815 None /mediawiki/index.php/Special:WhatLinksHere 200 115738
+10.2.23.23:387383818
+1485551562815
+/mediawiki/index.php/Special:WhatLinksHere
+200
+115738
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562914 None /mediawiki/index.php/ 301 26145
+10.2.23.23:387383818
+1485551562914
+/mediawiki/index.php/
+301
+26145
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562674 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&hidetrans=1 200 298385
+10.2.23.23:387383818
+1485551562674
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&hidetrans=1
+200
+298385
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562893 None /mediawiki/index.php/File:Man_brushing_his_teeth_using_chewing_stick.jpeg 404 95030
+10.2.23.23:387383818
+1485551562893
+/mediawiki/index.php/File:Man_brushing_his_teeth_using_chewing_stick.jpeg
+404
+95030
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562861 None /mediawiki/index.php?title=Category:Articles_with_missing_files&from=0.com 200 139615
+10.2.23.23:387383818
+1485551562861
+/mediawiki/index.php?title=Category:Articles_with_missing_files&from=0.com
+200
+139615
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562941 None /mediawiki/index.php/Wikipedia:Privacy_policy 200 82448
+10.2.23.23:387383818
+1485551562941
+/mediawiki/index.php/Wikipedia:Privacy_policy
+200
+82448
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562916 None /mediawiki/index.php/Raoul_Berger 200 122415
+10.2.23.23:387383818
+1485551562916
+/mediawiki/index.php/Raoul_Berger
+200
+122415
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562931 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1 404 132904
+10.2.23.23:387383818
+1485551562931
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1
+404
+132904
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562988 None /mediawiki/index.php/Special:RecentChangesLinked/ 404 83402
+10.2.23.23:387383818
+1485551562988
+/mediawiki/index.php/Special:RecentChangesLinked/
+404
+83402
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562973 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 118099
+10.2.23.23:387383818
+1485551562973
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+118099
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562821 None /mediawiki/index.php/Main_Page 200 296571
+10.2.23.23:387383818
+1485551562821
+/mediawiki/index.php/Main_Page
+200
+296571
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563118 None /mediawiki/index.php4/kite_d 403 185
+10.2.23.23:387383818
+1485551563118
+/mediawiki/index.php4/kite_d
+403
+185
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563023 None /mediawiki/index.php/Raoul_Berger 200 120130
+10.2.23.23:387383818
+1485551563023
+/mediawiki/index.php/Raoul_Berger
+200
+120130
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562748 None /mediawiki/index.php/Portal:Contents 404 398311
+10.2.23.23:387383818
+1485551562748
+/mediawiki/index.php/Portal:Contents
+404
+398311
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563071 None /mediawiki/index.php?title=Wikipedia:Look_what%27s_trending!&action=info 200 113798
+10.2.23.23:387383818
+1485551563071
+/mediawiki/index.php?title=Wikipedia:Look_what%27s_trending!&action=info
+200
+113798
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563064 None /mediawiki/index.php/Maa 200 124798
+10.2.23.23:387383818
+1485551563064
+/mediawiki/index.php/Maa
+200
+124798
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563091 None /mediawiki/index.php/Template:Editnotices/Page/Main_Page 200 116275
+10.2.23.23:387383818
+1485551563091
+/mediawiki/index.php/Template:Editnotices/Page/Main_Page
+200
+116275
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563207 None /mediawiki 301 92
+10.2.23.23:387383818
+1485551563207
+/mediawiki
+301
+92
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563000 None /mediawiki/index.php/ 301 225593
+10.2.23.23:387383818
+1485551563000
+/mediawiki/index.php/
+301
+225593
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563118 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 118698
+10.2.23.23:387383818
+1485551563118
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+118698
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563143 None /mediawiki/index.php/File:Man_brushing_his_teeth_using_chewing_stick.jpeg 404 119658
+10.2.23.23:387383818
+1485551563143
+/mediawiki/index.php/File:Man_brushing_his_teeth_using_chewing_stick.jpeg
+404
+119658
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563147 None /mediawiki/index.php/File:Wikiquote-logo.svg 404 140590
+10.2.23.23:387383818
+1485551563147
+/mediawiki/index.php/File:Wikiquote-logo.svg
+404
+140590
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563263 None /mediawiki/index.php/ 301 34316
+10.2.23.23:387383818
+1485551563263
+/mediawiki/index.php/
+301
+34316
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563297 None /mediawiki/index.php4/welcome_d 403 81
+10.2.23.23:387383818
+1485551563297
+/mediawiki/index.php4/welcome_d
+403
+81
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563298 None /mediawiki/index.php4/bike_d 403 44
+10.2.23.23:387383818
+1485551563298
+/mediawiki/index.php4/bike_d
+403
+44
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563208 None /mediawiki/index.php/Wikipedia:Contact_us 200 96979
+10.2.23.23:387383818
+1485551563208
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+96979
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563189 None /mediawiki/index.php/Help:Diff 200 135277
+10.2.23.23:387383818
+1485551563189
+/mediawiki/index.php/Help:Diff
+200
+135277
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563324 None /mediawiki/index.php4/bull_d 403 162
+10.2.23.23:387383818
+1485551563324
+/mediawiki/index.php4/bull_d
+403
+162
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563226 None /mediawiki/index.php/IMG 200 104572
+10.2.23.23:387383818
+1485551563226
+/mediawiki/index.php/IMG
+200
+104572
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563237 None /mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace= 200 120510
+10.2.23.23:387383818
+1485551563237
+/mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace=
+200
+120510
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563287 None /mediawiki/index.php/Special:WhatLinksHere 200 110695
+10.2.23.23:387383818
+1485551563287
+/mediawiki/index.php/Special:WhatLinksHere
+200
+110695
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563185 None /mediawiki/index.php/Special:RecentChangesLinked/ 404 219184
+10.2.23.23:387383818
+1485551563185
+/mediawiki/index.php/Special:RecentChangesLinked/
+404
+219184
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563404 None /mediawiki 301 77
+10.2.23.23:387383818
+1485551563404
+/mediawiki
+301
+77
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563331 None /mediawiki/index.php/File:Wiktionary-logo-v2.svg 404 88930
+10.2.23.23:387383818
+1485551563331
+/mediawiki/index.php/File:Wiktionary-logo-v2.svg
+404
+88930
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563305 None /mediawiki/index.php/File:WPanthroponymy.svg 404 116651
+10.2.23.23:387383818
+1485551563305
+/mediawiki/index.php/File:WPanthroponymy.svg
+404
+116651
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563038 None /mediawiki/index.php/Portal:Contents 404 416436
+10.2.23.23:387383818
+1485551563038
+/mediawiki/index.php/Portal:Contents
+404
+416436
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563298 None /mediawiki/index.php/ 301 159015
+10.2.23.23:387383818
+1485551563298
+/mediawiki/index.php/
+301
+159015
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563457 None /mediawiki/index.php4/film_d 403 74
+10.2.23.23:387383818
+1485551563457
+/mediawiki/index.php4/film_d
+403
+74
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563357 None /mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide 200 105086
+10.2.23.23:387383818
+1485551563357
+/mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide
+200
+105086
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563462 None /mediawiki/index.php4/cash_d 403 71
+10.2.23.23:387383818
+1485551563462
+/mediawiki/index.php4/cash_d
+403
+71
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563335 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1 200 156182
+10.2.23.23:387383818
+1485551563335
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1
+200
+156182
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563491 None /mediawiki/index.php4/towel_d 403 109
+10.2.23.23:387383818
+1485551563491
+/mediawiki/index.php4/towel_d
+403
+109
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563491 None /mediawiki 301 51
+10.2.23.23:387383818
+1485551563491
+/mediawiki
+301
+51
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563492 None /mediawiki/index.php4/towel_d 403 42
+10.2.23.23:387383818
+1485551563492
+/mediawiki/index.php4/towel_d
+403
+42
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563334 None /mediawiki/index.php/Category:Wikipedia_how-to 200 180076
+10.2.23.23:387383818
+1485551563334
+/mediawiki/index.php/Category:Wikipedia_how-to
+200
+180076
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563398 None /mediawiki/index.php/File:WPanthroponymy.svg 404 128469
+10.2.23.23:387383818
+1485551563398
+/mediawiki/index.php/File:WPanthroponymy.svg
+404
+128469
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563527 None /mediawiki/index.php4/cash_d 403 140
+10.2.23.23:387383818
+1485551563527
+/mediawiki/index.php4/cash_d
+403
+140
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563527 None /mediawiki/index.php4/night_d 403 63
+10.2.23.23:387383818
+1485551563527
+/mediawiki/index.php4/night_d
+403
+63
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563405 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 126114
+10.2.23.23:387383818
+1485551563405
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+126114
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563531 None /mediawiki/index.php4/elephant_d 403 82
+10.2.23.23:387383818
+1485551563531
+/mediawiki/index.php4/elephant_d
+403
+82
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563420 None /mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace= 200 121950
+10.2.23.23:387383818
+1485551563420
+/mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace=
+200
+121950
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563455 None /mediawiki/index.php/Main_Page 200 91155
+10.2.23.23:387383818
+1485551563455
+/mediawiki/index.php/Main_Page
+200
+91155
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563457 None /mediawiki/index.php/Special:WhatLinksHere 200 104481
+10.2.23.23:387383818
+1485551563457
+/mediawiki/index.php/Special:WhatLinksHere
+200
+104481
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551562717 None /mediawiki/index.php?title=Main_Page&action=edit 200 863375
+10.2.23.23:387383818
+1485551562717
+/mediawiki/index.php?title=Main_Page&action=edit
+200
+863375
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563492 None /mediawiki/index.php/Raoul_Berger 200 137393
+10.2.23.23:387383818
+1485551563492
+/mediawiki/index.php/Raoul_Berger
+200
+137393
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563542 None /mediawiki/index.php/Special:RecentChangesLinked/ 404 100890
+10.2.23.23:387383818
+1485551563542
+/mediawiki/index.php/Special:RecentChangesLinked/
+404
+100890
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563514 None /mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace= 200 135544
+10.2.23.23:387383818
+1485551563514
+/mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace=
+200
+135544
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563650 None /mediawiki/index.php4/kite_d 403 123
+10.2.23.23:387383818
+1485551563650
+/mediawiki/index.php4/kite_d
+403
+123
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563650 None /mediawiki/mediawiki 501 94
+10.2.23.23:387383818
+1485551563650
+/mediawiki/mediawiki
+501
+94
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563527 None /mediawiki/index.php/Main_Page 200 123826
+10.2.23.23:387383818
+1485551563527
+/mediawiki/index.php/Main_Page
+200
+123826
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563651 None /mediawiki/index.php4/bike_d 403 97
+10.2.23.23:387383818
+1485551563651
+/mediawiki/index.php4/bike_d
+403
+97
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563561 None /mediawiki/index.php/Special:WhatLinksHere 200 108785
+10.2.23.23:387383818
+1485551563561
+/mediawiki/index.php/Special:WhatLinksHere
+200
+108785
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563421 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20 200 253658
+10.2.23.23:387383818
+1485551563421
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20
+200
+253658
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563581 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&hidetrans=1 200 131366
+10.2.23.23:387383818
+1485551563581
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&hidetrans=1
+200
+131366
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563712 None /mediawiki 301 90
+10.2.23.23:387383818
+1485551563712
+/mediawiki
+301
+90
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563712 None /mediawiki/index.php4/bike_d 403 83
+10.2.23.23:387383818
+1485551563712
+/mediawiki/index.php4/bike_d
+403
+83
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563712 None /mediawiki 301 42
+10.2.23.23:387383818
+1485551563712
+/mediawiki
+301
+42
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563629 None /mediawiki/index.php/Wikipedia:Contact_us 200 88826
+10.2.23.23:387383818
+1485551563629
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+88826
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563643 None /mediawiki/index.php/Wikipedia:Contact_us 200 84524
+10.2.23.23:387383818
+1485551563643
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+84524
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563650 None /mediawiki/index.php/IMG 200 120659
+10.2.23.23:387383818
+1485551563650
+/mediawiki/index.php/IMG
+200
+120659
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563324 None /mediawiki/index.php/Mybro 404 454276
+10.2.23.23:387383818
+1485551563324
+/mediawiki/index.php/Mybro
+404
+454276
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563546 None /mediawiki/index.php/Special:RecentChangesLinked/ 404 251252
+10.2.23.23:387383818
+1485551563546
+/mediawiki/index.php/Special:RecentChangesLinked/
+404
+251252
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563727 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1 404 82033
+10.2.23.23:387383818
+1485551563727
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1
+404
+82033
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563809 None /mediawiki/index.php4/elephant_d 403 86
+10.2.23.23:387383818
+1485551563809
+/mediawiki/index.php4/elephant_d
+403
+86
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563712 None /mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide 200 106313
+10.2.23.23:387383818
+1485551563712
+/mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide
+200
+106313
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563718 None /mediawiki/index.php/Special:WhatLinksHere 200 103684
+10.2.23.23:387383818
+1485551563718
+/mediawiki/index.php/Special:WhatLinksHere
+200
+103684
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563462 None /mediawiki/index.php/Myhome 404 387322
+10.2.23.23:387383818
+1485551563462
+/mediawiki/index.php/Myhome
+404
+387322
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563850 None /mediawiki/index.php4/towel_d 403 135
+10.2.23.23:387383818
+1485551563850
+/mediawiki/index.php4/towel_d
+403
+135
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551563809 None /mediawiki/index.php/Help:Diff 200 88399
+10.2.23.23:387383818
+1485551563809
+/mediawiki/index.php/Help:Diff
+200
+88399
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563779 None /mediawiki/index.php/Wikipedia:Contact_us 200 126879
+10.2.23.23:387383818
+1485551563779
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+126879
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563906 None /mediawiki 301 113
+10.2.23.23:387383818
+1485551563906
+/mediawiki
+301
+113
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563798 None /mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide 200 123269
+10.2.23.23:387383818
+1485551563798
+/mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide
+200
+123269
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563850 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20 200 128242
+10.2.23.23:387383818
+1485551563850
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20
+200
+128242
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563898 None /mediawiki/index.php/File:Wiktionary-logo-v2.svg 404 113069
+10.2.23.23:387383818
+1485551563898
+/mediawiki/index.php/File:Wiktionary-logo-v2.svg
+404
+113069
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563906 None /mediawiki/index.php/Wikipedia:Privacy_policy 200 123161
+10.2.23.23:387383818
+1485551563906
+/mediawiki/index.php/Wikipedia:Privacy_policy
+200
+123161
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564029 None /mediawiki 301 89
+10.2.23.23:387383818
+1485551564029
+/mediawiki
+301
+89
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564029 None /mediawiki/index.php/File:Wikiquote-logo.svg 404 84081
+10.2.23.23:387383818
+1485551564029
+/mediawiki/index.php/File:Wikiquote-logo.svg
+404
+84081
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563675 None /mediawiki/index.php/Mybro 404 451482
+10.2.23.23:387383818
+1485551563675
+/mediawiki/index.php/Mybro
+404
+451482
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564127 None /mediawiki/index.php4/swim_d 403 91
+10.2.23.23:387383818
+1485551564127
+/mediawiki/index.php4/swim_d
+403
+91
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551564113 None /mediawiki/index.php/Category:Wikipedia_how-to 200 89072
+10.2.23.23:387383818
+1485551564113
+/mediawiki/index.php/Category:Wikipedia_how-to
+200
+89072
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563921 None /mediawiki/index.php/Myhome 404 365826
+10.2.23.23:387383818
+1485551563921
+/mediawiki/index.php/Myhome
+404
+365826
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564287 None /mediawiki/index.php4/bull_d 403 117
+10.2.23.23:387383818
+1485551564287
+/mediawiki/index.php4/bull_d
+403
+117
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551564287 None /mediawiki 301 63
+10.2.23.23:387383818
+1485551564287
+/mediawiki
+301
+63
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564287 None /mediawiki/index.php4/feedback_d 403 57
+10.2.23.23:387383818
+1485551564287
+/mediawiki/index.php4/feedback_d
+403
+57
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551564287 None /mediawiki/index.php4/welcome_d 403 51
+10.2.23.23:387383818
+1485551564287
+/mediawiki/index.php4/welcome_d
+403
+51
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551564203 None /mediawiki/index.php/Special:WhatLinksHere 200 186787
+10.2.23.23:387383818
+1485551564203
+/mediawiki/index.php/Special:WhatLinksHere
+200
+186787
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551563670 None /mediawiki/index.php?title=Main_Page&action=edit 200 760622
+10.2.23.23:387383818
+1485551563670
+/mediawiki/index.php?title=Main_Page&action=edit
+200
+760622
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564389 None /mediawiki/index.php/IMG 200 86091
+10.2.23.23:387383818
+1485551564389
+/mediawiki/index.php/IMG
+200
+86091
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564337 None /mediawiki/index.php/File:Neem_(Azadirachta_indica)_in_Hyderabad_W_IMG_6976.jpg 404 151297
+10.2.23.23:387383818
+1485551564337
+/mediawiki/index.php/File:Neem_(Azadirachta_indica)_in_Hyderabad_W_IMG_6976.jpg
+404
+151297
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564338 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&limit=500&hidelinks=1 200 152126
+10.2.23.23:387383818
+1485551564338
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&limit=500&hidelinks=1
+200
+152126
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564336 None /mediawiki/index.php/Main_Page 200 155188
+10.2.23.23:387383818
+1485551564336
+/mediawiki/index.php/Main_Page
+200
+155188
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564340 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20 200 229895
+10.2.23.23:387383818
+1485551564340
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20
+200
+229895
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564489 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1 404 94339
+10.2.23.23:387383818
+1485551564489
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1
+404
+94339
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564287 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 297255
+10.2.23.23:387383818
+1485551564287
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+297255
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564490 None /mediawiki/index.php/Special:WhatLinksHere 200 109620
+10.2.23.23:387383818
+1485551564490
+/mediawiki/index.php/Special:WhatLinksHere
+200
+109620
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564127 None /mediawiki/index.php/Portal:Contents 404 531980
+10.2.23.23:387383818
+1485551564127
+/mediawiki/index.php/Portal:Contents
+404
+531980
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564583 None /mediawiki/index.php/Wikipedia:Contact_us 200 102214
+10.2.23.23:387383818
+1485551564583
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+102214
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564685 None /mediawiki/index.php4/bull_d 403 147
+10.2.23.23:387383818
+1485551564685
+/mediawiki/index.php4/bull_d
+403
+147
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551564600 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 97862
+10.2.23.23:387383818
+1485551564600
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+97862
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564585 None /mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide 200 124753
+10.2.23.23:387383818
+1485551564585
+/mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide
+200
+124753
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564476 None /mediawiki/index.php/Special:RecentChangesLinked/ 404 290288
+10.2.23.23:387383818
+1485551564476
+/mediawiki/index.php/Special:RecentChangesLinked/
+404
+290288
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564698 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20 200 114522
+10.2.23.23:387383818
+1485551564698
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&limit=20
+200
+114522
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564492 None /mediawiki/index.php/Myhome 404 341255
+10.2.23.23:387383818
+1485551564492
+/mediawiki/index.php/Myhome
+404
+341255
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564833 None /mediawiki/index.php4/general_d 403 110
+10.2.23.23:387383818
+1485551564833
+/mediawiki/index.php4/general_d
+403
+110
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551564766 None /mediawiki/index.php/Special:RecentChangesLinked/ 404 97127
+10.2.23.23:387383818
+1485551564766
+/mediawiki/index.php/Special:RecentChangesLinked/
+404
+97127
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564812 None /mediawiki/index.php/File:Neem_(Azadirachta_indica)_in_Hyderabad_W_IMG_6976.jpg 404 102441
+10.2.23.23:387383818
+1485551564812
+/mediawiki/index.php/File:Neem_(Azadirachta_indica)_in_Hyderabad_W_IMG_6976.jpg
+404
+102441
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564863 None /mediawiki/index.php/Wikipedia:Contact_us 200 83532
+10.2.23.23:387383818
+1485551564863
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+83532
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564686 None /mediawiki/index.php/Portal:Contents 404 302010
+10.2.23.23:387383818
+1485551564686
+/mediawiki/index.php/Portal:Contents
+404
+302010
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564915 None /mediawiki/index.php/File:Neem_(Azadirachta_indica)_in_Hyderabad_W_IMG_6976.jpg 404 101898
+10.2.23.23:387383818
+1485551564915
+/mediawiki/index.php/File:Neem_(Azadirachta_indica)_in_Hyderabad_W_IMG_6976.jpg
+404
+101898
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565017 None /mediawiki/mediawiki 501 137
+10.2.23.23:387383818
+1485551565017
+/mediawiki/mediawiki
+501
+137
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564947 None /mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide 200 84213
+10.2.23.23:387383818
+1485551564947
+/mediawiki/index.php/Wikipedia:Simple_diff_and_link_guide
+200
+84213
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564988 None /mediawiki/index.php/Special:RecentChangesLinked/ 404 85043
+10.2.23.23:387383818
+1485551564988
+/mediawiki/index.php/Special:RecentChangesLinked/
+404
+85043
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565073 None /mediawiki/index.php4/towel_d 403 82
+10.2.23.23:387383818
+1485551565073
+/mediawiki/index.php4/towel_d
+403
+82
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551564431 None /mediawiki/index.php?title=Main_Page&action=edit 200 678513
+10.2.23.23:387383818
+1485551564431
+/mediawiki/index.php?title=Main_Page&action=edit
+200
+678513
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564833 None /mediawiki/index.php/File:Wikiquote-logo.svg 404 276528
+10.2.23.23:387383818
+1485551564833
+/mediawiki/index.php/File:Wikiquote-logo.svg
+404
+276528
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565110 None /mediawiki 301 84
+10.2.23.23:387383818
+1485551565110
+/mediawiki
+301
+84
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565110 None /mediawiki 301 90
+10.2.23.23:387383818
+1485551565110
+/mediawiki
+301
+90
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565110 None /mediawiki/index.php/ 301 36304
+10.2.23.23:387383818
+1485551565110
+/mediawiki/index.php/
+301
+36304
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565110 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&limit=50&hidelinks=1 200 131812
+10.2.23.23:387383818
+1485551565110
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&limit=50&hidelinks=1
+200
+131812
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551564659 None /mediawiki/index.php/Myhome 404 591258
+10.2.23.23:387383818
+1485551564659
+/mediawiki/index.php/Myhome
+404
+591258
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565073 None /mediawiki/index.php/Mybro 404 264316
+10.2.23.23:387383818
+1485551565073
+/mediawiki/index.php/Mybro
+404
+264316
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565340 None /mediawiki/index.php4/feedback_d 403 258
+10.2.23.23:387383818
+1485551565340
+/mediawiki/index.php4/feedback_d
+403
+258
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565342 None /mediawiki/index.php4/night_d 403 229
+10.2.23.23:387383818
+1485551565342
+/mediawiki/index.php4/night_d
+403
+229
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565342 None /mediawiki/index.php4/general_d 403 65
+10.2.23.23:387383818
+1485551565342
+/mediawiki/index.php4/general_d
+403
+65
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565344 None /mediawiki/index.php4/film_d 403 229
+10.2.23.23:387383818
+1485551565344
+/mediawiki/index.php4/film_d
+403
+229
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565344 None /mediawiki/index.php4/general_d 403 65
+10.2.23.23:387383818
+1485551565344
+/mediawiki/index.php4/general_d
+403
+65
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565342 None /mediawiki/index.php/ 301 36300
+10.2.23.23:387383818
+1485551565342
+/mediawiki/index.php/
+301
+36300
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565378 None /mediawiki/index.php4/night_d 403 93
+10.2.23.23:387383818
+1485551565378
+/mediawiki/index.php4/night_d
+403
+93
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565378 None /mediawiki/index.php4/bull_d 403 34
+10.2.23.23:387383818
+1485551565378
+/mediawiki/index.php4/bull_d
+403
+34
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565337 None /mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace= 200 74209
+10.2.23.23:387383818
+1485551565337
+/mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace=
+200
+74209
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565342 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 104325
+10.2.23.23:387383818
+1485551565342
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+104325
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565447 None /mediawiki 301 69
+10.2.23.23:387383818
+1485551565447
+/mediawiki
+301
+69
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565447 None /mediawiki/index.php4/elephant_d 403 45
+10.2.23.23:387383818
+1485551565447
+/mediawiki/index.php4/elephant_d
+403
+45
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565242 None /mediawiki/index.php/Maa 200 235139
+10.2.23.23:387383818
+1485551565242
+/mediawiki/index.php/Maa
+200
+235139
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565344 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&hidetrans=1 200 154001
+10.2.23.23:387383818
+1485551565344
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1&hidetrans=1
+200
+154001
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565498 None /mediawiki 301 99
+10.2.23.23:387383818
+1485551565498
+/mediawiki
+301
+99
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565412 None /mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace= 200 90126
+10.2.23.23:387383818
+1485551565412
+/mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace=
+200
+90126
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565342 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1 200 161416
+10.2.23.23:387383818
+1485551565342
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidelinks=1
+200
+161416
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565447 None /mediawiki/index.php/Maa 200 67380
+10.2.23.23:387383818
+1485551565447
+/mediawiki/index.php/Maa
+200
+67380
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565477 None /mediawiki/index.php/ 301 40153
+10.2.23.23:387383818
+1485551565477
+/mediawiki/index.php/
+301
+40153
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565502 None /mediawiki/index.php/Template:Editnotices/Page/Main_Page 200 68231
+10.2.23.23:387383818
+1485551565502
+/mediawiki/index.php/Template:Editnotices/Page/Main_Page
+200
+68231
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565570 None /mediawiki 301 68
+10.2.23.23:387383818
+1485551565570
+/mediawiki
+301
+68
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565570 None /mediawiki/index.php4/film_d 403 44
+10.2.23.23:387383818
+1485551565570
+/mediawiki/index.php4/film_d
+403
+44
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565570 None /mediawiki/index.php4/night_d 403 48
+10.2.23.23:387383818
+1485551565570
+/mediawiki/index.php4/night_d
+403
+48
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565570 None /mediawiki/index.php4/bike_d 403 33
+10.2.23.23:387383818
+1485551565570
+/mediawiki/index.php4/bike_d
+403
+33
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565499 None /mediawiki/index.php/Wikipedia:Contact_us 200 75306
+10.2.23.23:387383818
+1485551565499
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+75306
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565574 None /mediawiki/index.php4/night_d 403 55
+10.2.23.23:387383818
+1485551565574
+/mediawiki/index.php4/night_d
+403
+55
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565343 None /mediawiki/index.php/Bridget_Cherry 200 237469
+10.2.23.23:387383818
+1485551565343
+/mediawiki/index.php/Bridget_Cherry
+200
+237469
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565514 None /mediawiki/index.php/Wikipedia:Look_what%27s_trending! 200 79574
+10.2.23.23:387383818
+1485551565514
+/mediawiki/index.php/Wikipedia:Look_what%27s_trending!
+200
+79574
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565594 None /mediawiki 301 67
+10.2.23.23:387383818
+1485551565594
+/mediawiki
+301
+67
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565504 None /mediawiki/index.php/Special:WhatLinksHere 200 117237
+10.2.23.23:387383818
+1485551565504
+/mediawiki/index.php/Special:WhatLinksHere
+200
+117237
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565594 None /mediawiki/index.php/ 301 32944
+10.2.23.23:387383818
+1485551565594
+/mediawiki/index.php/
+301
+32944
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565341 None /mediawiki/index.php/Wikipedia:Contact_us 200 303406
+10.2.23.23:387383818
+1485551565341
+/mediawiki/index.php/Wikipedia:Contact_us
+200
+303406
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565645 None /mediawiki/index.php4/night_d 403 64
+10.2.23.23:387383818
+1485551565645
+/mediawiki/index.php4/night_d
+403
+64
+Entering FRADE.cpp
+First REquest : Deception blacklisted for wiki!!
+ 10.2.23.23 1485551565378 None /mediawiki/index.php/Bridget_Cherry 200 283390
+10.2.23.23:387383818
+1485551565378
+/mediawiki/index.php/Bridget_Cherry
+200
+283390
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565621 None /mediawiki/index.php/Special:RecentChangesLinked/ 404 84641
+10.2.23.23:387383818
+1485551565621
+/mediawiki/index.php/Special:RecentChangesLinked/
+404
+84641
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565706 None /mediawiki 301 72
+10.2.23.23:387383818
+1485551565706
+/mediawiki
+301
+72
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565706 None /mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace= 200 72919
+10.2.23.23:387383818
+1485551565706
+/mediawiki/index.php?title=Special%3AWhatLinksHere&limit=500&hidelinks=1&target=Wikipedia%3ALook+what%27s+trending%21&namespace=
+200
+72919
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565570 None /mediawiki/index.php/Main_Page 200 239443
+10.2.23.23:387383818
+1485551565570
+/mediawiki/index.php/Main_Page
+200
+239443
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565810 None /mediawiki 301 66
+10.2.23.23:387383818
+1485551565810
+/mediawiki
+301
+66
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565810 None /mediawiki/mediawiki 501 57
+10.2.23.23:387383818
+1485551565810
+/mediawiki/mediawiki
+501
+57
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565662 None /mediawiki/index.php/IMG 200 211611
+10.2.23.23:387383818
+1485551565662
+/mediawiki/index.php/IMG
+200
+211611
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565810 None /mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1 404 69910
+10.2.23.23:387383818
+1485551565810
+/mediawiki/index.php?title=Special:WhatLinksHere/Wikipedia:Look_what%27s_trending!&hidetrans=1&hidelinks=1&hideredirs=1
+404
+69910
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565645 None /mediawiki/index.php/Myhome 404 284584
+10.2.23.23:387383818
+1485551565645
+/mediawiki/index.php/Myhome
+404
+284584
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565779 None /mediawiki/index.php?title=Category:Articles_with_missing_files&from=0.com 200 200027
+10.2.23.23:387383818
+1485551565779
+/mediawiki/index.php?title=Category:Articles_with_missing_files&from=0.com
+200
+200027
+Entering FRADE.cpp
+See if record is already there..
+10.2.23.23 1485551565574 None /mediawiki/index.php?title=Main_Page&action=edit 200 588582
+10.2.23.23:387383818
+1485551565574
+/mediawiki/index.php?title=Main_Page&action=edit
+200
+588582
+Entering FRADE.cpp
+See if record is already there..
