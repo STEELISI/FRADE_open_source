@@ -1,0 +1,32 @@
+src/call.c:    httperf -- a tool for measuring web server performance
+src/call.c:    Copyright 2000-2007 Hewlett-Packard Company
+src/call.c:    02110-1301, USA
+src/call.c:  c->id = next_id++;
+src/call.c:  call_set_method (c, DEFAULT_METHOD, sizeof (DEFAULT_METHOD) - 1);
+src/call.c:  c->req.version = param.http_version;
+src/call.c:  c->req.iov[IE_BLANK].iov_base = (caddr_t) " ";
+src/call.c:  c->req.iov[IE_BLANK].iov_len = 1;
+src/call.c:  c->req.iov[IE_NEWLINE1].iov_base = (caddr_t) "\r\n";
+src/call.c:  c->req.iov[IE_NEWLINE1].iov_len = 2;
+src/call.c:  c->req.iov[IE_NEWLINE2].iov_base = (caddr_t) "\r\n";
+src/call.c:  c->req.iov[IE_NEWLINE2].iov_len = 2;
+src/call.c:  u_int num_hdrs = c->req.num_extra_hdrs;
+src/call.c:      return -1;
+src/call.c:  c->req.iov[IE_FIRST_HEADER + num_hdrs].iov_base = (caddr_t) hdr;
+src/call.c:  c->req.iov[IE_FIRST_HEADER + num_hdrs].iov_len = len;
+src/call.c:  c->req.num_extra_hdrs = num_hdrs + 1;
+src/call.h:    httperf -- a tool for measuring web server performance
+src/call.h:    Copyright 2000-2007 Hewlett-Packard Company
+src/call.h:    02110-1301, USA
+src/call.h:    IE_LAST_HEADER = IE_FIRST_HEADER + MAX_EXTRA_HEADERS - 1,
+src/call.h:/* Destroy the call-specific state in call object C.  */
+src/call.h:   The headers must be end with a carriage-return, line-feed sequence
+src/call.h:      c->req.iov[IE_METHOD].iov_base = (caddr_t) method;	\
+src/call.h:      c->req.iov[IE_METHOD].iov_len = method_len;		\
+src/call.h:      c->req.iov[IE_LOC].iov_base = (caddr_t) loc;	\
+src/call.h:      c->req.iov[IE_LOC].iov_len = loc_len;		\
+src/call.h:      c->req.iov[IE_URI].iov_base = (caddr_t) uri;	\
+src/call.h:      c->req.iov[IE_URI].iov_len = uri_len;		\
+src/call.h:      c->req.iov[IE_CONTENT].iov_base = (caddr_t) content;	\
+src/call.h:      c->req.iov[IE_CONTENT].iov_len = content_len;		\
+Binary file src/call.o matches
