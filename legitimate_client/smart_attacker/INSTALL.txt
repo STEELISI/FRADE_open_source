@@ -1,0 +1,16 @@
+1) install the apt-get packages: python3-setuptools and python3-dateutil
+
+% sudo apt-get install python3-setuptools python3-dateutil
+
+2) Run "sudo python3.4 setup.py install" in each of these directories: parse,
+stuf, shove. 
+
+% cd parse-1.6.6
+% sudo python3.4 setup.py install
+% cd ../stuf-0.9.14/
+% sudo python3.4 setup.py install
+% cd ../shove-0.6.6/
+% sudo python3.4 setup.py install
+
+
+
