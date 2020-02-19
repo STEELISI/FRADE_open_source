@@ -136,7 +136,7 @@ class EventBank(object):
                 
                 for e in events:
                     e.ip = session_ip
-                    e.wait = e.wait + last_event_time + 2
+                    e.wait = e.wait + last_event_time #+ 2
                     last_event_time = e.wait
                     heappush(self.event_list, e)
 
